@@ -1,0 +1,32 @@
+AtliQo Telecom 5G Launch Performance Analysis Dashboard
+
+Project Description:
+
+This project presents a Power BI dashboard that analyzes AtliQo's performance before and after the launch of its 5G plans in May 2022. AtliQo, a leading telecom provider in India, experienced a decline in active users and revenue growth following the launch. The objective of the dashboard is to provide AtliQo’s management with a comprehensive comparison of key performance indicators (KPIs) between the pre- and post-5G launch periods, enabling them to make data-driven decisions for business recovery and growth.
+
+Key Features:
+
+KPI Comparison: Detailed comparison of KPIs such as active users, revenue, user engagement, and plan subscriptions before and after the 5G launch.
+User Trend Analysis: Visualized trends in active users, highlighting the decline and potential areas of focus to improve user retention.
+Revenue Growth Insights: Analysis of revenue trends post-5G launch to understand the impact on financial performance.
+Actionable Insights: Recommendations for management on pricing optimization, targeted marketing, and plan adjustments to drive user acquisition and retention.
+Interactive Visuals: Dynamic visualizations, including line charts, bar charts, and KPI cards, to provide an easy-to-understand overview for top-level management.
+Management Considerations:
+
+Adjust pricing or offer more flexible plans to attract users.
+Develop targeted marketing campaigns to re-engage inactive user segments.
+Improve customer experience based on performance trends.
+Introduce bundle offers or limited-time discounts to boost revenue.
+Tools Used:
+
+Power BI for data visualization
+SQL for data extraction and preparation
+Data Source: Mock data based on AtliQo’s performance metrics.
+
+This project demonstrates my ability to create business-focused dashboards that deliver actionable insights, enabling stakeholders to make informed decisions. Feel free to explore the dashboard and insights by accessing the Power BI report in this repository.
+
+
+
+
+
+
